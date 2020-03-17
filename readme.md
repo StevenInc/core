@@ -21,8 +21,6 @@ This project was forked from the [Coldbox Elixir](https://github.com/coldbox-eli
 
 There is no official documentation.
 
-## Contributions and Bugs
-
 ## License
 
 This fork is private and not licensed.
