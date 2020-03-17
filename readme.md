@@ -6,26 +6,23 @@
 
 ## Introduction
 
-ColdBox Elixir provides a clean, fluent API for defining basic Gulp tasks for your ColdBox application. Elixir supports several common CSS and JavaScript pre-processors, and even testing tools.
+This fork has been modified to allow for folder customiztion.
+webpack customization.
+and custom features.
+It is for a specific use and it is not maintained. Please use the master repo that this fork was derived from instead.
 
-If you've ever been confused about how to get started with Gulp and asset compilation, you will love ColdBox Elixir!
 
 ## Acknowledgements
 
 This project was forked from the [Laravel Elixir](https://github.com/laravel/elixir) project, so many many thanks for all their hard work and ideas.
+This project was forked from the [Coldbox Elixir](https://github.com/coldbox-elixir/core) project, so many many thanks for all their hard work and ideas.
 
 ## Official Documentation
 
-Documentation for Elixir can be found at https://coldbox-elixir.ortusbooks.com/
+There is no official documentation.
 
 ## Contributions and Bugs
 
-Project tracking for this project can be found at the [Ortus Solutions Jira](https://ortussolutions.atlassian.net/projects/ELIXIR/summary).  Please log all bugs, improvements, and features there.
-
-Pull requests are welcome and encouraged.  Please [check on the Jira page](https://ortussolutions.atlassian.net/projects/ELIXIR/issues/ELIXIR-2?filter=allissues) before starting any large amount of work.  Elixir, by its nature, is extendable, and many pull requests would be better suited as extensions.
-
-Brad Wood (@bdw429s) has a [great guide on submitting pull requests.](https://www.ortussolutions.com/blog/submit-your-first-pull-request-to-an-open-source-project)  If you are unsure where to go, in need of help, or have a question, come ask in the #box-products channel on the [CFML Slack](http://cfml-slack.herokuapp.com/).
-
 ## License
 
-ColdBox Elixir is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This fork is private and not licensed.
